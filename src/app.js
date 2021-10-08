@@ -97,7 +97,7 @@ app.get('*', (req, res) => {
         name: 'Alireza Navaie',
         errorMessage: 'Page not found'
     })
-})
+}) 
 
 
 app.listen(port, () => {
